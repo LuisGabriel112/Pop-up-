@@ -1,0 +1,47 @@
+.animals{
+    color: red;
+    text-align: center;
+    background-color: black;
+    margin: 80px 0px 0px 0px ;
+}
+
+main{
+    background-color: blue;
+    height: 200px;
+}
+
+div{
+    cursor: pointer;
+}
+
+.pop{
+    font-size: 30px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+.padre{
+    display: none;
+}
+
+.content-pop{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.609); 
+}
+
+.content-pop-i{
+    position: absolute;
+    top: 180px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: red;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    
+}
